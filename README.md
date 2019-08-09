@@ -1,4 +1,4 @@
-# BigQuery --> Python --> ensemble learning --> BigQuery --> Tableau Tutorial notebook to Predict Item Backorder
+# BigQuery --> Python --> Ensemble Learning --> BigQuery --> Tableau Tutorial notebook to Predict Item Backorder
 
 This repository is part of an ongoing series of tutorials to teach interested individuals simple examples of end-to-end machine learning projects. Each notebook is a different part of the end-to-end project. The focus of this series of notebooks is to predict item backorder.
 
